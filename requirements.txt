@@ -3,4 +3,4 @@ pandas
 streamlit
 sklearn
 seaborn
-nupmy
+numpy
